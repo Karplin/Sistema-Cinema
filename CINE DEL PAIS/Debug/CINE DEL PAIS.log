@@ -1,0 +1,29 @@
+﻿Compilación iniciada a las 22/10/2018 12:55:19 p. m..
+     1>Proyecto "D:\Memoria de Leonal\CINE DEL PAIS\CINE DEL PAIS\CINE DEL PAIS.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\CINE DEL PAIS.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\CINE DEL PAIS.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "CINE DEL PAIS.cpp"
+         CINE DEL PAIS.cpp
+     1>d:\memoria de leonal\cine del pais\cine del pais\cine del pais.cpp(38): warning C4129: '*' : secuencia de escape de carácter no reconocida
+     1>d:\memoria de leonal\cine del pais\cine del pais\cine del pais.cpp(39): warning C4129: '*' : secuencia de escape de carácter no reconocida
+     1>d:\memoria de leonal\cine del pais\cine del pais\cine del pais.cpp(1135): warning C4390: ';' : se encontró una instrucción controlada vacía; ¿es esa la intención?
+     1>d:\memoria de leonal\cine del pais\cine del pais\cine del pais.cpp(1449): warning C4551: la llamada a la función no tiene lista de argumentos
+     1>d:\memoria de leonal\cine del pais\cine del pais\cine del pais.cpp(17): warning C4101: 'santiago' : variable local sin referencia
+     1>d:\memoria de leonal\cine del pais\cine del pais\cine del pais.cpp(17): warning C4101: 'val' : variable local sin referencia
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Memoria de Leonal\CINE DEL PAIS\Debug\CINE DEL PAIS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CINE DEL PAIS.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Memoria de Leonal\CINE DEL PAIS\Debug\CINE DEL PAIS.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Memoria de Leonal\CINE DEL PAIS\Debug\CINE DEL PAIS.lib" /MACHINE:X86 "Debug\CINE DEL PAIS.obj"
+         Debug\stdafx.obj
+     1>CINE DEL PAIS.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+         CINE DEL PAIS.vcxproj -> D:\Memoria de Leonal\CINE DEL PAIS\Debug\CINE DEL PAIS.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Memoria de Leonal\CINE DEL PAIS\Debug\CINE DEL PAIS.exe;#1" /manifest "Debug\CINE DEL PAIS.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\CINE DEL PAIS.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\CINE DEL PAIS.lastbuildstate".
+     1>Compilación del proyecto terminada "D:\Memoria de Leonal\CINE DEL PAIS\CINE DEL PAIS\CINE DEL PAIS.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.88

@@ -1,0 +1,33 @@
+﻿Compilación iniciada a las 04/10/2018 11:57:54 a. m..
+     1>Proyecto "D:\Memoria de Leonal\CINE DEL PAIS\CINE DEL PAIS\CINE DEL PAIS.vcxproj" en el nodo 2 (build destinos).
+     1>PrepareForBuild:
+         Creando directorio "D:\Memoria de Leonal\CINE DEL PAIS\Release\".
+       InitializeBuildStatus:
+         Se creará "Release\CINE DEL PAIS.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\CINE DEL PAIS.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\CINE DEL PAIS.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "CINE DEL PAIS.cpp"
+         CINE DEL PAIS.cpp
+     1>CINE DEL PAIS.cpp(38): warning C4129: '*' : secuencia de escape de carácter no reconocida
+     1>CINE DEL PAIS.cpp(39): warning C4129: '*' : secuencia de escape de carácter no reconocida
+     1>CINE DEL PAIS.cpp(877): warning C4390: ';' : se encontró una instrucción controlada vacía; ¿es esa la intención?
+     1>CINE DEL PAIS.cpp(1119): warning C4551: la llamada a la función no tiene lista de argumentos
+     1>CINE DEL PAIS.cpp(17): warning C4101: 'santiago' : variable local sin referencia
+     1>CINE DEL PAIS.cpp(17): warning C4101: 'val' : variable local sin referencia
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Memoria de Leonal\CINE DEL PAIS\Release\CINE DEL PAIS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\CINE DEL PAIS.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Memoria de Leonal\CINE DEL PAIS\Release\CINE DEL PAIS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Memoria de Leonal\CINE DEL PAIS\Release\CINE DEL PAIS.lib" /MACHINE:X86 "Release\CINE DEL PAIS.obj"
+         Release\stdafx.obj
+         Generando código
+         Generación de código finalizada
+         CINE DEL PAIS.vcxproj -> D:\Memoria de Leonal\CINE DEL PAIS\Release\CINE DEL PAIS.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Memoria de Leonal\CINE DEL PAIS\Release\CINE DEL PAIS.exe;#1" /manifest "Release\CINE DEL PAIS.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Release\CINE DEL PAIS.unsuccessfulbuild".
+         Aplicando tarea Touch a "Release\CINE DEL PAIS.lastbuildstate".
+     1>Compilación del proyecto terminada "D:\Memoria de Leonal\CINE DEL PAIS\CINE DEL PAIS\CINE DEL PAIS.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:08.88
